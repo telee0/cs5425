@@ -1,2 +1,2 @@
 # cs5425
-Java code as Hadoop and Spark assignments
+Hadoop and Spark assignments, project scripts
