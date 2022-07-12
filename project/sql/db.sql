@@ -1,0 +1,7 @@
+SHOW TABLES;
+
+SELECT COUNT(1) FROM opensea_event;
+SELECT COUNT(1) FROM opensea_top100;
+SELECT COUNT(1) FROM tw_tweet;
+SELECT COUNT(1) FROM tw_user;
+
